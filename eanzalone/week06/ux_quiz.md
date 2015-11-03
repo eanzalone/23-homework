@@ -30,5 +30,5 @@
 
 
 ##Resourcefulness
-Although you might know nothing about Python, imagine you've been asked by your employer or client to find the best Django module for doing authentication. (Django is like Rails but built in python). Pick the Django module you'd use and list the pros and cons of why to use or not use it and why you think it is the best.
+1. Although you might know nothing about Python, imagine you've been asked by your employer or client to find the best Django module for doing authentication. (Django is like Rails but built in python). Pick the Django module you'd use and list the pros and cons of why to use or not use it and why you think it is the best.
 	* I would use [django.contrib.auth](https://docs.djangoproject.com/en/1.8/ref/contrib/auth/) in this situation. The module already has build in functions for authenticating user information, so we wouldn't have to build them ourselves, which is always nice. It also has built in features for Admins if that becomes a requirement.
