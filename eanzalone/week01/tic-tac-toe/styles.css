@@ -1,0 +1,12 @@
+#board {
+  margin-top: 10px;
+}
+
+.box {
+  border: 1px solid black;
+  height: 150px;
+}
+
+h1 {
+	color: blue; /* easy, visible CSS test - if blue, CSS is conencted*/
+}
